@@ -4,6 +4,6 @@ Welcome! This repo contains projects utilizing the composeSDK. The FES team will
 ## Instructions
 These projects will build on their predecessors over time. It's important to start from `1 - Q1 2024`. 
 
-> The prerequisite for all projects is to complete the SisenseU training titles `ComposeSDK - Getting Started`. 
+> The prerequisite for all projects is to complete the SisenseU training titled: `ComposeSDK - Getting Started`. 
 
 If you have any questions, feel free to reach out to any of your colleagues or managers. Good luck!
